@@ -24,7 +24,6 @@ Example
 If you pass nil to sourcemapper.NewHandler, http.DefaultServeMux is used by default.
 However, you can use this to pass your own router.
 */
-
 package sourcemapper
 
 import (
